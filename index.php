@@ -1,4 +1,7 @@
-<?php require_once 'includes/header.php'; ?>
+<?php 
+require_once 'includes/header.php';
+//changes
+ ?>
 
 		<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top" id="navbar">
 		  <a class="navbar-brand home" href="#">Shoping</a>
